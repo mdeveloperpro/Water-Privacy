@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Water Tracker - Privacy Policy</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      padding: 30px;
+      color: #333;
+      max-width: 800px;
+      margin: auto;
+    }
+    h1 {
+      color: #e91e63;
+      border-bottom: 2px solid #e91e63;
+      padding-bottom: 10px;
+    }
+    h2 {
+      color: #d81b60;
+      margin-top: 25px;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    li {
+      margin-bottom: 10px;
+    }
+    .highlight {
+      background: #fce4ec;
+      padding: 20px;
+      border-left: 4px solid #e91e63;
+      margin-top: 20px;
+      margin-bottom: 20px;
+    }
+    .contact {
+      margin-top: 30px;
+      padding: 15px;
+      background: #fff3f6;
+      border: 1px solid #f8bbd0;
+      border-radius: 5px;
+    }
+    .effective-date {
+      font-style: italic;
+      color: #777;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Water Tracker</h1>
+  <div class="effective-date"><strong>Effective Date:</strong> December 19, 2025</div>
+
+  <h2>Overview</h2>
+  <p><strong>Water Tracker</strong>(“we,” “us,” or “our”) respects your privacy and is committed to transparency about how your information is handled. This Privacy Policy explains what data is collected through the Water Tracker app available on the Google Play Store, how it is used, and your choices.</p>
+  <p>Please note: <strong>Water Tracker itself does not collect, store, or process any personal data directly.</strong> However, the app integrates third-party advertising and analytics services that may collect certain information as described below.</p>
+  <h2>What We DO NOT Collect</h2>
+  <ul>
+    <li><strong>We collect absolutely no data.</strong></li>
+    <li>No personal info (name, email, phone)</li>
+    <li>No camera, microphone, or contact access</li>
+    <li>No GPS or location tracking</li>
+  </ul>
+
+  <h2>How We Use Data</h2>
+  <ul>
+    <li>No health, fitness, or usage tracking beyond what’s needed for local app functionality</li>
+    <li>Debug crashes and enhance future updates</li>
+    <li>Save progress locally or via Google Play (if linked)</li>
+  </ul>
+
+  <h2>Data Storage</h2>
+  <ul>
+    <li>All data is stored locally on your device</li>
+    <li>Cloud save only if connected to Google Play</li>
+  </ul>
+
+  <h2>Third-Party  Advertising (via AdMob Mediation)</h2>
+  <p>Water Tracker uses <strong>Google AdMob</strong> to display ads. AdMob may, in turn, use mediation to serve ads from other networks, including <strong>Unity Ads</strong> and <strong>Meta Audience Network</strong>.</p>
+  <p>These third-party ad providers may collect limited, non-personally identifiable information automatically when ads are loaded, such as:</p>
+  <ul>
+    <li>Device model and operating system</li>
+    <li>IP address (for coarse geographic region)</li>
+    <li>Advertising ID (e.g., Google Advertising ID)</li>
+    <li>App interaction data (e.g., ad clicks or impressions)</li>
+    <p>This data is used <strong>only</strong> by the ad networks for purposes such as:</p>
+    <li>Serving relevant advertisements</li>
+    <li>Measuring ad performance</li>
+    <li>Preventing fraud</li>
+  </ul>
+  <h2>Your Choices & Control</h2>
+  <p>You can limit ad tracking on your Android device by:</p>
+  <ol>
+  <li> Going to <strong>Settings > Google > Ads</strong></li>
+  <li>Enabling <strong>“Opt out of Ads Personalization”</strong></li>
+  <li>Tapping <strong>“Reset advertising ID”</strong> to dissociate past activit</li>
+  </ol>
+   <div class="highlight">
+    <h2>Children’s Privacy</h2>
+    <p>Water Tracker is made for general audiences and does not knowingly collect data from children under 13. If any such data is discovered, it will be deleted promptly upon request.</p>
+  </div>
+
+  <h2>Policy Updates</h2>
+  <p>We may update this Privacy Policy. All changes will be visible within the app or posted here with a revised date.</p>
+
+  <div class="contact">
+    <h2>Contact Us</h2>
+    <p>If you have questions or concerns about this policy:</p>
+    <ul>
+      <li><strong>Email:</strong> <a href="mailto:bodycalc.help@gmail.com">blocky.help@gmail.com</a></li>
+    </ul>
+  </div>
+</body>
+</html>
